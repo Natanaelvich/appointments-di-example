@@ -26,7 +26,6 @@ This project was developed with the following technologies:
 
 - Clone the repository and access the folder;
 - Install dependencies with `yarn`;
-- Copy keys .env.example to .env and fill all;
 - run `yarn dev` to start project;
 
 ## 📄 License
