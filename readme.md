@@ -1,4 +1,4 @@
-<h1 align="center">Appointments dependencie injection example</h1>
+<h1 align="center">Appointments dependency injection example</h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,7 +12,7 @@
 
 ## 📋 Description
 
-Appointments dependencie injection example made with Express, Prisma and Typescript.
+Appointments dependency injection example made with Express, Prisma and Typescript.
 
 ## ✨ Technologies!
 
